@@ -1,0 +1,19 @@
+{
+  "name": "app-wk13",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "expo": "17.0.0",
+    "exponent": "^14.0.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-17.0.0.tar.gz",
+    "react-native-elements": "^0.11.2",
+    "react-native-icons": "^0.7.1",
+    "react-native-router-flux": "^3.38.0",
+    "react-native-vector-icons": "^4.0.1",
+    "react-navigation": "git+https://github.com/react-community/react-navigation.git#7edd9a7"
+  }
+}
